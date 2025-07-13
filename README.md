@@ -3,23 +3,23 @@
 ## <br>📂 What I've worked on:  
 ### 🔍 Data Science & Machine Learning  
 - [Applied Machine Learning for Performance Analysis](https://github.com/MetthewB/ML-CM2007)
- *Developed machine learning models for human activity recognition, fall detection, and fitness activity classification.*  
+ *- Developed machine learning models for human activity recognition, fall detection, and fitness activity classification.*  
 - [Image Denoising](https://github.com/CS-433/ml-project-2-m-m-ms_)  
- *Improved image quality by reducing noise using state-of-the-art denoising techniques and models.*
+ *- Improved image quality by reducing noise using state-of-the-art denoising techniques and models.*
 
 ### 🧠 Neuroscience & Signal Processing 
 - [Multi-Platform Neuromuscular Simulation Framework](https://github.com/MetthewB/TNE)
- *Developed integrations of electrical stimulation of the spinal cord with musculoskeletal models to predict EMG and limb kinematics.*  
+ *- Developed integrations of electrical stimulation of the spinal cord with musculoskeletal models to predict EMG and limb kinematics.*  
 - [Neural Response to Music](https://github.com/oskarboesch/nssp_miniproj_1)
- *Explores neural processing of emotionally provocative auditory stimuli using fMRI data.*  
+ *- Explores neural processing of emotionally provocative auditory stimuli using fMRI data.*  
 - [EMG Signal Analysis for Intention Decoding](https://github.com/MetthewB/NSSP_Project2)
- *Processes and analyzes EMG signals to decode the intended actions of individuals.*  
+ *- Processes and analyzes EMG signals to decode the intended actions of individuals.*  
 
 ### 🌐 Web Development 
 - [NSNX Website](https://github.com/MetthewB/NSNX/tree/main) 
- *Building the future website of the NeuroStudents’ NetworX association.* 
+ *- Building the future website of the NeuroStudents’ NetworX association.* 
 - [Matthieu's Portfolio](https://github.com/MetthewB/Portfolio) 
- *My own portfolio, still under work!* 
+ *- My own portfolio, still under work!* 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-beylard/) 
