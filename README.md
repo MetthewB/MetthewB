@@ -16,6 +16,8 @@
  *- Processes and analyzes EMG signals to decode the intended actions of individuals.*  
 
 ### 🌐 Web Development 
+- [Humor Through Data](https://metthewb.github.io/ADArticho-Website/) 
+ *- A website showcasing humor analysis across datasets and models.* 
 - [NSNX Website](https://github.com/MetthewB/NSNX/tree/main) 
  *- Building the future website of the NeuroStudents’ NetworX association.* 
 - [Matthieu's Portfolio](https://github.com/MetthewB/Portfolio) 
