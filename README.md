@@ -8,8 +8,7 @@
  *- Improved image quality by reducing noise using state-of-the-art denoising techniques and models.*
 
 ### 🧠 Neuroscience & Signal Processing 
-- [Spinal-Cortical Interaction Modeling](https://github.com/MetthewB/NX-492)
- *- _Developed a biologically plausible computational model using RNNs to simulate motor control and spinal-cortical interaction._
+- [Spinal-Cortical Interaction Modeling](https://github.com/MetthewB/NX-492) - _Developed a biologically plausible computational model using RNNs to simulate motor control and spinal-cortical interaction._
 - [Multi-Platform Neuromuscular Simulation Framework](https://github.com/MetthewB/TNE)
  *- Developed integrations of electrical stimulation of the spinal cord with musculoskeletal models to predict EMG and limb kinematics.*  
 - [Neural Response to Music](https://github.com/oskarboesch/nssp_miniproj_1)
