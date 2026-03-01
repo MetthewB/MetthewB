@@ -4,8 +4,7 @@
 ### 🔍 Data Science & Machine Learning  
 - [Applied Machine Learning for Performance Analysis](https://github.com/MetthewB/ML-CM2007)
  *- Developed machine learning models for human activity recognition, fall detection, and fitness activity classification.*  
-- [Image Denoising](https://github.com/CS-433/ml-project-2-m-m-ms_)  
- *- Improved image quality by reducing noise using state-of-the-art denoising techniques and models.*
+- [Image Denoising](https://github.com/CS-433/ml-project-2-m-m-ms_) - _Improved image quality by reducing noise using state-of-the-art denoising techniques and models._
 
 ### 🧠 Neuroscience & Signal Processing 
 - [Spinal-Cortical Interaction Modeling](https://github.com/MetthewB/NX-492) - _Developed a biologically plausible computational model using RNNs to simulate motor control and spinal-cortical interaction._
@@ -19,7 +18,7 @@
 ### 🌐 Web Development 
 - [Humor Through Data](https://metthewb.github.io/ADArticho-Website/) 
  *- A website showcasing humor analysis across datasets and models.* 
-- [NSNX Website](https://github.com/MetthewB/NSNX/tree/main) 
+- [NSNX Website](https://github.com/nsnx-epfl/nsnx) 
  *- Building the future website of the NeuroStudents’ NetworX association.* 
 - [Matthieu's Portfolio](https://github.com/MetthewB/Portfolio) 
  *- My own portfolio, still under work!* 
