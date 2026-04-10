@@ -2,6 +2,7 @@
 👋 Hi, I'm Matthieu, a Master's student in Neuroengineering at EPFL with a minor in Data Science.  
 ## <br>📂 What I've worked on:  
 ### 🔍 Data Science & Machine Learning  
+- [Multi-Agent Personal Assistant](https://github.com/MetthewB/AI-Agent) - _Built an AI ecosystem using LangGraph and Hugging Face. Features Telegram voice routing, Strava API integration, and persistent memory with MongoDB._
 - [Applied Machine Learning for Performance Analysis](https://github.com/MetthewB/ML-CM2007)
  *- Developed machine learning models for human activity recognition, fall detection, and fitness activity classification.*  
 - [Image Denoising](https://github.com/CS-433/ml-project-2-m-m-ms_) - _Improved image quality by reducing noise using state-of-the-art denoising techniques and models._
