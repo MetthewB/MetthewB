@@ -21,7 +21,7 @@
  *- A website showcasing humor analysis across datasets and models.* 
 - [NSNX Website](https://github.com/nsnx-epfl/nsnx) 
  *- Building the future website of the NeuroStudents’ NetworX association.* 
-- [Matthieu's Portfolio](https://github.com/MetthewB/Portfolio) 
+- [Matthieu's Portfolio](https://portfolio-metthew-b-s-projects.vercel.app/) 
  *- My own portfolio, still under work!* 
 
 ## Socials:
