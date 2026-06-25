@@ -19,7 +19,7 @@
 ### 🌐 Web Development 
 - [Humor Through Data](https://metthewb.github.io/ADArticho-Website/) 
  *- A website showcasing humor analysis across datasets and models.* 
-- [NSNX Website](https://github.com/nsnx-epfl/nsnx) 
+- [NSNX Website](https://nsnx-epfl.github.io/nsnx/home.html) 
  *- Building the future website of the NeuroStudents’ NetworX association.* 
 - [Matthieu's Portfolio](https://matthieu-beylard.vercel.app/) 
  *- My own portfolio!* 
