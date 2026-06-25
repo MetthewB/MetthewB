@@ -21,8 +21,8 @@
  *- A website showcasing humor analysis across datasets and models.* 
 - [NSNX Website](https://github.com/nsnx-epfl/nsnx) 
  *- Building the future website of the NeuroStudents’ NetworX association.* 
-- [Matthieu's Portfolio](https://portfolio-metthew-b-s-projects.vercel.app/) 
- *- My own portfolio, still under work!* 
+- [Matthieu's Portfolio](https://matthieu-beylard.vercel.app/) 
+ *- My own portfolio!* 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-beylard/) 
